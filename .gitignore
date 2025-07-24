@@ -1,0 +1,37 @@
+# FVM Version Cache
+.fvm/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter_export_environment.sh
+
+# Test outputs
+coverage/
+
+# Web build
+web/generated_plugin_registrant.dart
+
+# Unnecessary files
+pubspec.lock
+analysis_options.yaml
+README.md
