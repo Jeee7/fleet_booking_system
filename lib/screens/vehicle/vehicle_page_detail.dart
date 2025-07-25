@@ -168,7 +168,7 @@ class _VehicleDetailPageState extends State<VehicleDetailPage> {
                                     ),
                                   );
                                 },
-                                child: const Text("Booking Sekarang"),
+                                child: const Text("See Location"),
                               ),
                             ),
                           ],
